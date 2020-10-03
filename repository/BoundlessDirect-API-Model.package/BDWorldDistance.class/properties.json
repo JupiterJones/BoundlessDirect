@@ -1,0 +1,14 @@
+{
+	"category" : "BoundlessDirect-API-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BDWorldDistance",
+	"pools" : [
+		 ],
+	"super" : "BDAbstractModel",
+	"type" : "normal" }

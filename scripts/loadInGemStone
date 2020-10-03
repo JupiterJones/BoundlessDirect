@@ -5,13 +5,19 @@ Metacello new
 	get;
 	load: #('CI');
 	lock
-]
+].
 
 GsDeployer deploy: [
 Metacello new
 	baseline: 'BoundlessDirect';
-	repository: 'github://JupiterJones/BoundlessDirect:master/repository';
+	repository: 'filetree:///opt/git/JupiterJones/BoundlessDirect/repository';
 	get;
 	load;
 	lock
-]
+].
+
+project install --url=http://gsdevkit.github.io/GsDevKit_home/Seaside32.ston
+project load --loads=`#('CI')` Seaside3
+mount @/sys/stone/dirs/Seaside3/tode /home seaside
+seaside/gemServer --register=seaside --type=zinc --ports=`#(8383 8384 8385)`
+seaside/gemServer --register=seaside --type=zinc --port=8388
