@@ -1,0 +1,17 @@
+GsDeployer deploy: [
+Metacello new
+	baseline: 'Seaside3';
+	repository: 'github://SeasideSt/Seaside:master/repository';
+	get;
+	load: #('CI');
+	lock
+]
+
+GsDeployer deploy: [
+Metacello new
+	baseline: 'BoundlessDirect';
+	repository: 'github://JupiterJones/BoundlessDirect:master/repository';
+	get;
+	load;
+	lock
+]

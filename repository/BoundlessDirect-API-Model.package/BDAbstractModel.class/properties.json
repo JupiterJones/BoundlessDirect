@@ -1,0 +1,14 @@
+{
+	"category" : "BoundlessDirect-API-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BDAbstractModel",
+	"pools" : [
+		 ],
+	"super" : "BDAbstractObject",
+	"type" : "normal" }

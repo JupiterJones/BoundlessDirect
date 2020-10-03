@@ -1,0 +1,14 @@
+{
+	"category" : "BoundlessDirect-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BDAbstractObject",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

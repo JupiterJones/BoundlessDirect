@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfBoundlessDirect",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfBoundlessDirect",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
