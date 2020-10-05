@@ -1,14 +1,14 @@
 {
-	"category" : "BoundlessDirect-API-Model",
+	"category" : "BoundlessDirect-API-Model-Tests",
 	"classinstvars" : [
 		 ],
 	"classvars" : [
-		"AllItems" ],
+		 ],
 	"commentStamp" : "",
 	"instvars" : [
 		 ],
-	"name" : "BDItem",
+	"name" : "BDColourTests",
 	"pools" : [
 		 ],
-	"super" : "BDLocalisedModel",
+	"super" : "TestCase",
 	"type" : "normal" }

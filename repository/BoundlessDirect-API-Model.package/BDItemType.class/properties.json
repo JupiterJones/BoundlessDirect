@@ -3,12 +3,11 @@
 	"classinstvars" : [
 		 ],
 	"classvars" : [
-		"AllColours" ],
+		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"baseColour",
-		"gleamColour" ],
-	"name" : "BDColour",
+		 ],
+	"name" : "BDItemType",
 	"pools" : [
 		 ],
 	"super" : "BDLocalisedModel",

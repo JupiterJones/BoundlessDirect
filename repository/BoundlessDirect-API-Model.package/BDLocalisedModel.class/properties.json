@@ -3,13 +3,12 @@
 	"classinstvars" : [
 		 ],
 	"classvars" : [
-		"AllColours" ],
+		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"baseColour",
-		"gleamColour" ],
-	"name" : "BDColour",
+		 ],
+	"name" : "BDLocalisedModel",
 	"pools" : [
 		 ],
-	"super" : "BDLocalisedModel",
+	"super" : "BDAbstractModel",
 	"type" : "normal" }

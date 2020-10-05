@@ -1,5 +1,11 @@
 {
 	"class" : {
-		 },
+		"AllColours" : "jupiter 10/05/2020 03:17",
+		"removeAllColours" : "jupiter 10/05/2020 03:46",
+		"updateAllColours" : "jupiter 10/05/2020 03:16" },
 	"instance" : {
-		 } }
+		"baseColour" : "jupiter 10/05/2020 00:31",
+		"baseColourHex" : "jupiter 10/05/2020 00:20",
+		"gleamColour" : "jupiter 10/05/2020 00:31",
+		"gleamColourHex" : "jupiter 10/05/2020 00:20",
+		"localisedStringKeyPaths" : "jupiter 10/05/2020 02:35" } }
