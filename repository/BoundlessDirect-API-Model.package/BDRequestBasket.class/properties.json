@@ -6,10 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"data",
-		"lastUpdated" ],
-	"name" : "BDAbstractModel",
+		 ],
+	"name" : "BDRequestBasket",
 	"pools" : [
 		 ],
-	"super" : "BDAbstractObject",
+	"super" : "BDAbstractModel",
 	"type" : "normal" }

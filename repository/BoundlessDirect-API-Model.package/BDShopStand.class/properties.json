@@ -6,10 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"data",
-		"lastUpdated" ],
-	"name" : "BDAbstractModel",
+		 ],
+	"name" : "BDShopStand",
 	"pools" : [
 		 ],
-	"super" : "BDAbstractObject",
+	"super" : "BDAbstractModel",
 	"type" : "normal" }

@@ -1,5 +1,17 @@
 {
 	"class" : {
-		 },
+		"defaultRefreshTime" : "jupiter 10/04/2020 18:33" },
 	"instance" : {
-		 } }
+		"at:" : "jupiter 10/04/2020 18:45",
+		"at:ifAbsent:" : "jupiter 10/04/2020 18:45",
+		"at:ifAbsent:ifPresent:" : "jupiter 10/04/2020 18:45",
+		"at:ifAbsentPut:" : "jupiter 10/04/2020 18:49",
+		"at:ifPresent:" : "jupiter 10/04/2020 18:46",
+		"at:ifPresent:ifAbsent:" : "jupiter 10/04/2020 18:46",
+		"at:put:" : "jupiter 10/04/2020 18:56",
+		"data" : "jupiter 10/04/2020 17:50",
+		"data:" : "jupiter 10/04/2020 18:57",
+		"dataAge" : "jupiter 10/04/2020 18:16",
+		"defaultRefreshTime" : "jupiter 10/04/2020 18:34",
+		"lastUpdated" : "jupiter 10/04/2020 18:10",
+		"lastUpdated:" : "jupiter 10/04/2020 18:10" } }

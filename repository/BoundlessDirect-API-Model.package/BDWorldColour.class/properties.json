@@ -6,10 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"data",
-		"lastUpdated" ],
-	"name" : "BDAbstractModel",
+		 ],
+	"name" : "BDWorldColour",
 	"pools" : [
 		 ],
-	"super" : "BDAbstractObject",
+	"super" : "BDColourAssociation",
 	"type" : "normal" }
