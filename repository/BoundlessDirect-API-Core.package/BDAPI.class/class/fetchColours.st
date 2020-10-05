@@ -3,7 +3,8 @@ fetchColours
   "Fetch all boundless colours using the BoundlexxAPI"
 
   GsSecureSocket disableCertificateVerificationOnClient.
-  ^ STON
+  ^ (STON
     fromStream:
       (ZnClient new get: 'https://api.boundlexx.app/api/v1/colors/?limit=255')
-        readStream
+        readStream)
+    at: 'results'
