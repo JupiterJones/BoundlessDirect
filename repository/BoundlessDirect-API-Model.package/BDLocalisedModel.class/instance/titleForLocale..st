@@ -1,3 +1,3 @@
 Accessing-Data
-nameForLocale: locale
+titleForLocale: locale
   ^ self localisedStringForKey: 'name' locale: locale

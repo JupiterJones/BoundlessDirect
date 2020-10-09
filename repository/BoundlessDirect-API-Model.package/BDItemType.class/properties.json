@@ -3,10 +3,10 @@
 	"classinstvars" : [
 		 ],
 	"classvars" : [
-		 ],
+		"AllItemTypes" ],
 	"commentStamp" : "",
 	"instvars" : [
-		 ],
+		"items" ],
 	"name" : "BDItemType",
 	"pools" : [
 		 ],

@@ -1,0 +1,14 @@
+{
+	"category" : "BoundlessDirect-Web-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BDSkyAndStars",
+	"pools" : [
+		 ],
+	"super" : "BDAbstractComponent",
+	"type" : "normal" }

@@ -1,6 +1,11 @@
 {
 	"class" : {
 		"fetchColours" : "jupiter 10/05/2020 04:31",
-		"fetchItems" : "jupiter 10/05/2020 04:30" },
+		"fetchItems" : "jupiter 10/05/2020 04:30",
+		"fetchWorldSummaries" : "jupiter 10/05/2020 22:52",
+		"fetchWorlds" : "jupiter 10/07/2020 17:39",
+		"fetchWorldsWithId:" : "jupiter 10/07/2020 17:23",
+		"primeModel" : "jupiter 10/05/2020 19:33",
+		"releaseModel" : "jupiter 10/05/2020 19:43" },
 	"instance" : {
 		 } }

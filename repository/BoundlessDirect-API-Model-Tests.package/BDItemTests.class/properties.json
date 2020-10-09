@@ -1,0 +1,14 @@
+{
+	"category" : "BoundlessDirect-API-Model-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "jupiter 10/05/2020 14:03",
+	"instvars" : [
+		 ],
+	"name" : "BDItemTests",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

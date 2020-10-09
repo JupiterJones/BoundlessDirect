@@ -10,5 +10,5 @@ testAccessing
   self assert: colour baseColour = nativeColour.
   self assert: colour gleamColourHex = '#1b1b1b'.
   self assert: colour gleamColour = nativeColour.
-  self assert: colour name = 'Black'.
-  self assert: (colour nameForLocale: (WALocale fromString: 'fr_FR')) = 'Noir'
+  self assert: colour title = 'Black'.
+  self assert: (colour titleForLocale: (WALocale fromString: 'fr_FR')) = 'Noir'

@@ -1,4 +1,4 @@
-Boundlexx - Colours
+Boundlexx
 fetchItems
   "Fetch all boundless colours using the BoundlexxAPI"
 

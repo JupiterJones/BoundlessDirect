@@ -1,5 +1,12 @@
 {
 	"class" : {
-		 },
+		"AllItemTypes" : "jupiter 10/05/2020 16:23",
+		"removeAllItemTypes" : "jupiter 10/05/2020 17:50",
+		"updateAllItemTypes" : "jupiter 10/05/2020 17:51" },
 	"instance" : {
-		 } }
+		"addItem:" : "jupiter 10/05/2020 17:42",
+		"initialize" : "jupiter 10/05/2020 16:59",
+		"items" : "jupiter 10/05/2020 17:42",
+		"localisedStringKeyPaths" : "jupiter 10/05/2020 21:28",
+		"symbolicId" : "jupiter 10/05/2020 17:46",
+		"titleForLocale:" : "jupiter 10/05/2020 21:30" } }
