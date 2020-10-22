@@ -14,4 +14,5 @@ install
   application
     addLibrary: JQDevelopmentLibrary;
     addLibrary: JQUiDevelopmentLibrary;
-    addLibrary: JQOvercastTheme
+    addLibrary: JQOvercastTheme;
+    addLibrary: BDFileLibrary

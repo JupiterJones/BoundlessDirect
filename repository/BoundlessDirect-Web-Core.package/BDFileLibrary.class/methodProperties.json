@@ -2,11 +2,18 @@
 	"class" : {
 		"loadFromDist" : "jupiter 10/08/2020 02:08" },
 	"instance" : {
-		"cssstyleCss" : "jupiter 10/07/2020 21:48",
-		"cssstyleCssContent" : "jupiter 10/07/2020 21:48",
-		"imagesskyPng" : "jupiter 10/07/2020 21:48",
-		"imagesskyPngContent" : "jupiter 10/07/2020 21:48",
-		"imagesstarsPng" : "jupiter 10/07/2020 21:48",
-		"imagesstarsPngContent" : "jupiter 10/07/2020 21:48",
-		"imagestitlebannerPng" : "jupiter 10/07/2020 21:48",
-		"imagestitlebannerPngContent" : "jupiter 10/07/2020 21:48" } }
+		"cssstyleCss" : "jupiter 10/13/2020 03:38",
+		"cssstyleCssContent" : "jupiter 10/13/2020 03:38",
+		"imageslogoPng" : "jupiter 10/13/2020 03:38",
+		"imageslogoPngContent" : "jupiter 10/13/2020 03:38",
+		"imagesskyPng" : "jupiter 10/13/2020 03:38",
+		"imagesskyPngContent" : "jupiter 10/13/2020 03:39",
+		"imagesstarsPng" : "jupiter 10/13/2020 03:39",
+		"imagesstarsPngContent" : "jupiter 10/13/2020 03:39",
+		"imagestitlebannerPng" : "jupiter 10/13/2020 03:39",
+		"imagestitlebannerPngContent" : "jupiter 10/13/2020 03:39",
+		"jsnextparticleJs" : "jupiter 10/13/2020 03:39",
+		"jsnextparticleJsContent" : "jupiter 10/13/2020 03:39",
+		"jsnextparticleminJs" : "jupiter 10/13/2020 03:39",
+		"jsnextparticleminJsContent" : "jupiter 10/13/2020 03:39",
+		"selectorsToInclude" : "jupiter 10/12/2020 01:23" } }

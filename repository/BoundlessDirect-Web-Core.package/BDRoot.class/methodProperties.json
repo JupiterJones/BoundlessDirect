@@ -1,7 +1,10 @@
 {
 	"class" : {
-		"install" : "jupiter 10/07/2020 21:18" },
+		"install" : "jupiter 10/12/2020 01:22" },
 	"instance" : {
-		"renderContentOn:" : "jupiter 10/08/2020 04:54",
-		"skyAndStars" : "jupiter 10/08/2020 04:54",
-		"updateRoot:" : "jupiter 10/08/2020 02:10" } }
+		"initialize" : "jupiter 10/12/2020 01:50",
+		"logoScript" : "jupiter 10/13/2020 08:16",
+		"renderContentOn:" : "jupiter 10/13/2020 08:17",
+		"skyAndStars" : "jupiter 10/10/2020 02:14",
+		"style" : "jupiter 10/15/2020 16:11",
+		"updateRoot:" : "jupiter 10/13/2020 03:43" } }

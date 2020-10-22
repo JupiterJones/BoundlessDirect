@@ -1,3 +1,3 @@
 Components
 children
-  ^ super children , self components values
+  ^ Array withAll: self components values
