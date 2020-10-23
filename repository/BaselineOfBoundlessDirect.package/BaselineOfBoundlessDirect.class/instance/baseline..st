@@ -10,11 +10,11 @@ baseline: spec
               spec
                 loads: #('Core' 'Development' 'Zinc' 'CI');
                 repository: 'github://SeasideSt/Seaside:master/repository' ];
-        baseline: 'Magritte'
+        baseline: 'Magritte3'
           with: [ 
               spec
                 loads: #('Core' 'Tests' 'Seaside');
-                repository: 'github://magritte-metamodel:master/magritte/source' ];
+                repository: 'github://GsDevKit/Magritte3:master/repository' ];
         baseline: 'RenoirSt'
           with: [ 
               spec
@@ -22,7 +22,7 @@ baseline: spec
                 loads: #('Deployment-Seaside-Extensions') ].
       spec
         package: 'BoundlessDirect-Core'
-          with: [ spec requires: #('Seaside3' 'Magritte') ];
+          with: [ spec requires: #('Seaside3' 'Magritte3') ];
         package: 'BoundlessDirect-API-Core'
           with: [ spec requires: #('BoundlessDirect-Core') ];
         package: 'BoundlessDirect-API-Model'
