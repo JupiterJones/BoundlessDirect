@@ -1,0 +1,22 @@
+{
+  "description" : "A sass framework for flow.",
+  "homepage" : "",
+  "devDependencies" : {
+    "grunt-contrib-copy" : "^1.0.0"
+  },
+  "title" : "Flow-SASS",
+  "name" : "flow-sass",
+  "author" : {
+    "name" : "Jupiter Jones",
+    "email" : "jupiter.jones@mail.com"
+  },
+  "optionalDependencies" : {
+
+  },
+  "dependencies" : {
+    "grunt-contrib-sass" : "^1.0.0",
+    "grunt-contrib-watch" : "^1.1.0",
+    "grunt" : "^1.1.0"
+  },
+  "version" : "0.1.0"
+}

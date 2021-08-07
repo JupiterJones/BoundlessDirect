@@ -1,0 +1,29 @@
+/* NetWorks page layout */
+html, body, .wrapper, .content-wrapper {
+	height: 100%;
+}
+
+.content {
+	padding-bottom: 50px;
+}
+
+div.alert {
+	font-weight: bold;
+	font-size: 1.2em;
+	color: black !important;
+	text-shadow: 1px 1px 1px rgba(255,255,255,0.9);
+	
+	&.alert-danger {
+	
+	}
+
+}
+
+.dashbaordActions {
+	>> .btn {
+		width: 100%;
+		text-align: left !important;
+		padding-right: 24px;
+	}
+}
+
